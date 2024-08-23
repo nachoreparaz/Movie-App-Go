@@ -1,6 +1,4 @@
-================
-USERS ENDPOINTS
-================
+<h2>Users Endpoints</h2>
 
 ```javascript
 GET "/users"
@@ -30,12 +28,9 @@ PUT "/users/update"
         }
 ```
 
-===============
-Movies Endpoint
-
-# (Todos los metodos necesitan autenticacion)
-
-===============
+<h2>Movies Endpoint</h2>
+<br>
+<p>(Todos los metodos necesitan autenticacion)</p>
 
 ```javascript
 GET "/movies/popular" (Este metodo obtiene las populares de la API)
