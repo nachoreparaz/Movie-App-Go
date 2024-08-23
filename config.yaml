@@ -1,5 +1,0 @@
-server_address: ":8080"
-database_url: "admin:admin1234@tcp(labora.cz6a846s41yk.us-east-2.rds.amazonaws.com)/labora"
-movies_base_url: "https://api.themoviedb.org/3"
-api_key: "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMjMxYjY4NWU4YzAwMjRiZTAzNTg2OGZiOWYzZGVmOCIsIm5iZiI6MTcyMjczNjMxNC4wNzMwMzUsInN1YiI6IjY2YWQ3MzFiNjU3ODBiNjExOWNkN2RjYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.acu1GapmEE5X_2O4o7_fTGo-K5mMvWAeiz56BUZ8vbM"
-secret: "supersupersecreto"
